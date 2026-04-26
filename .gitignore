@@ -1,0 +1,60 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+.next/
+.nuxt/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Python specific (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
+
+# Expo/React Native specific
+.expo/
+expo-shared/
+node_modules/.cache/
+
+# TypeScript
+*.tsbuildinfo
+```
